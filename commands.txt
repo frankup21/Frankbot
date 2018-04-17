@@ -1,0 +1,32 @@
+__Frankbot Command List__ Prefix: **%**
+
+__Useful__:
+**f** - Code Format
+
+**google <keywords>** - Retrieves the top Google search result
+  *Aliases*: Google
+
+**youtube <keywords>** - Retrives the top YouTube search result
+
+**reddit <subreddit>** - Grabs a random post from a subreddit
+
+**qr <text>** - Create a QR code
+
+__Games__:
+**rps** <choice : rock, paper, scissors> - Rock Paper Scissors
+
+**flipcoin** - Flips a coin
+
+**magic8ball** - Ask the magic ball a question
+  *Aliases*: 8ball
+
+**slots** - Pull the slot machine
+
+**rolldice** - Roll the dice
+
+__Shit Posting__:
+**penislength @user** - Measure the penis of the tagged user
+
+**b <text>** - Convert all 'B' and 'b' letters to the button emoji B
+
+*Aliases are alternative ways to invoke a command.*
